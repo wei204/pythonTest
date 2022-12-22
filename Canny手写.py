@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import cv2
 
 
-# 生成高斯核
+# 生成高斯核（改造）
 def gaussian_create():
     sigma1 = sigma2 = 1
     gaussian_sum = 0
